@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "131872703258",
+    "project_id": "signin-example-60e87",
+    "storage_bucket": "signin-example-60e87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131872703258:android:23ed30cdd6657dba58e2a3",
+        "android_client_info": {
+          "package_name": "com.example.webrtc_api"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131872703258-6goa4hac0f8lp3mua4daddnmqi344j9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_EmArf0K2_zyOOGyuPbbMipE58CpA0Mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131872703258-6goa4hac0f8lp3mua4daddnmqi344j9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
